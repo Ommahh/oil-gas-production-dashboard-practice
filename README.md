@@ -18,5 +18,14 @@ The analysis focuses on a 10 year period (1990-1999) to examine production trend
 ## Tools Used
 Excel
 
+## Lessons Learnt
+- Importance of documenting my work early
+- Value of keeping dataset alongside dashboard
+
+## Dashboard Preview
+![oil and gas production Dashboard] (oil%20and%20gas%20production.jpeg)
+![oil and gas production Dashboard] (oil%20and%20gas%20production2.jpeg)
+![oil and gas production Dashboard] (oil%20and%20gas%20production3.jpeg)
+
 ## Notes
 This project was created earlier in my learning journey and focuses on trend analysis and dashboard design.
