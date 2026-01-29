@@ -23,9 +23,9 @@ Excel
 - Value of keeping dataset alongside dashboard
 
 ## Dashboard Preview
-![oil and gas production Dashboard] (oil%20and%20gas%20production.jpeg)
-![oil and gas production Dashboard] (oil%20and%20gas%20production2.jpeg)
-![oil and gas production Dashboard] (oil%20and%20gas%20production3.jpeg)
+![oil and gas production Dashboard](oil_and_gas_production.jpeg)
+![oil and gas production Dashboard](oil_and_gas_production2.jpeg)
+![oil and gas production Dashboard](oil_and_gas_production3.jpeg)
 
 ## Notes
 This project was created earlier in my learning journey and focuses on trend analysis and dashboard design.
